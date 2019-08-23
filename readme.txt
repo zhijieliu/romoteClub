@@ -4,4 +4,4 @@ test status
 Git has a mutable index called stage
 Git tracks changes
 
-creating a new branch is quick and simp;e
+creating a new branch is quick & simp;e
